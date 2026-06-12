@@ -36,6 +36,11 @@ GLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.
 
 The mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.
 
+# License
+
+This project is licensed under the **Custom License by Mano Craft**.
+
+See the LICENSE file for details.
 
 
 ***
@@ -75,3 +80,9 @@ GLFW-Key-Codes: X = 88, Z = 90, C = 67, V = 86, usw.
 | 1.21.0 + | ✅ |
 
 Die Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine versionsspezifischen Hacks.
+
+# Lizense
+
+Dieses projekt ist lizensiert unter der **Custom License by Mano Craft**.
+
+Siehe LICENSE datei für details.
