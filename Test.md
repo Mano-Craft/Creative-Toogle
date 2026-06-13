@@ -98,7 +98,7 @@ Mine faster with an upgraded pickaxe stronger than Diamond.
 
 ---
 
-# 🪣 Emerald Shovel
+# 🛠 Emerald Shovel
 
 The Emerald Shovel offers improved durability and mining speed.
 
