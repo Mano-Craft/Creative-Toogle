@@ -90,7 +90,7 @@ Die Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine version
 
 ## Sprachen
 
-| Version | Englisch | Deutsch | Portugisich | Russisch | Französich |
+| Version | Englisch | Deutsch | Portugiesich | Russisch | Französich |
 |------|-------------|------|------|-------------|------|
 | 1.0.0   |  ✅  | ✅ | ✅ | ✅ | ✅ |
 
