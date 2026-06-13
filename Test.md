@@ -156,5 +156,6 @@ The complete Emerald Armor set provides protection between Diamond and Netherite
 Planned features include:
 
 - ✨ Exclusive Emerald Enchantments
-- ⚖️ Additional balancing improvements
-- 🆕 More emerald-based content
+- 🌍 Support for more languages
+- 🛡️ A brand new Emerald Shield
+  
