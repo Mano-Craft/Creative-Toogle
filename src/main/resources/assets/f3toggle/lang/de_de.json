@@ -1,0 +1,11 @@
+{
+  "f3toggle.config.title": "F3 Toggle – Einstellungen",
+  "f3toggle.config.current_key": "Aktueller Umschalt-Taste: F3 + %s",
+  "f3toggle.config.change_key": "Taste ändern  [F3 + %s]",
+  "f3toggle.config.press_key": "Taste drücken …",
+  "f3toggle.config.waiting": "Warte auf Tastendruck …",
+  "f3toggle.toggled.creative": "Kreativmodus aktiviert (F3+%s zum Zurückschalten)",
+  "f3toggle.toggled.restored": "Vorheriger Spielmodus wiederhergestellt",
+  "key.f3toggle.toggle": "Creativ Wechsel",
+  "key.category.f3toggle.category": "Creativ Wechsel"
+}

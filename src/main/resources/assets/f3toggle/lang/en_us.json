@@ -1,0 +1,11 @@
+{
+  "f3toggle.config.title": "F3 Toggle – Settings",
+  "f3toggle.config.current_key": "Current toggle key: F3 + %s",
+  "f3toggle.config.change_key": "Change Key  [F3 + %s]",
+  "f3toggle.config.press_key": "Press any key …",
+  "f3toggle.config.waiting": "Waiting for key press …",
+  "f3toggle.toggled.creative": "Switched to Creative mode (F3+%s to return)",
+  "f3toggle.toggled.restored": "Restored previous game mode",
+  "key.f3toggle.toggle": "Creative Toggle",
+  "key.category.f3toggle.category": "Creative Toggle"
+}

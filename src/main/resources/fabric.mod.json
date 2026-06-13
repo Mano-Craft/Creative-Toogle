@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "f3toggle",
+  "version": "${version}",
+  "name": "Creative Toggle",
+  "description": "Toggles between Creative mode and your previous gamemode using F3+X.This Key is configurable in the mod settings which you can see in the mod menu.",
+  "authors": [
+    "Mano Craft"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/emeraldsplus",
+    "sources": "https://github.com/Mano-Craft/Emeralds-plus"
+  },
+  "license": "Custom license by Mano Craft",
+  "custom": {
+    "modmenu": {
+      "links": {
+        "LICENSE": "https://github.com/Mano-Craft/Creative-Toogle/blob/main/LICENSE"
+      }
+    }
+  },
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.f3toggle.F3ToggleClient"
+    ],
+    "modmenu": [
+      "de.f3toggle.F3ToggleModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "f3toggle.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.0",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
