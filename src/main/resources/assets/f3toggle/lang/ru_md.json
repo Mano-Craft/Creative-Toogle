@@ -1,0 +1,11 @@
+{
+  "f3toggle.config.title": "F3 Toggle — Настройки",
+  "f3toggle.config.current_key": "Текущая клавиша переключения: F3 + %s",
+  "f3toggle.config.change_key": "Изменить клавишу  [F3 + %s]",
+  "f3toggle.config.press_key": "Нажмите клавишу…",
+  "f3toggle.config.waiting": "Ожидание нажатия клавиши…",
+  "f3toggle.toggled.creative": "Творческий режим включён (F3+%s для возврата)",
+  "f3toggle.toggled.restored": "Предыдущий игровой режим восстановлен",
+  "key.f3toggle.toggle": "Переключение творческого режима",
+  "key.category.f3toggle.category": "Переключение творческого режима"
+}

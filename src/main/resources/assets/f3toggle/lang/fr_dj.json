@@ -1,0 +1,11 @@
+{
+  "f3toggle.config.title": "F3 Toggle – Paramètres",
+  "f3toggle.config.current_key": "Touche de basculement actuelle : F3 + %s",
+  "f3toggle.config.change_key": "Changer la touche  [F3 + %s]",
+  "f3toggle.config.press_key": "Appuyez sur une touche…",
+  "f3toggle.config.waiting": "En attente d'un appui sur une touche…",
+  "f3toggle.toggled.creative": "Mode Créatif activé (F3+%s pour revenir)",
+  "f3toggle.toggled.restored": "Mode de jeu précédent restauré",
+  "key.f3toggle.toggle": "Basculer en mode Créatif",
+  "key.category.f3toggle.category": "Basculer en mode Créatif"
+}

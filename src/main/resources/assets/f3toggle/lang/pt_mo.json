@@ -1,0 +1,11 @@
+{
+  "f3toggle.config.title": "F3 Toggle – Configurações",
+  "f3toggle.config.current_key": "Tecla de alternância atual: F3 + %s",
+  "f3toggle.config.change_key": "Alterar tecla  [F3 + %s]",
+  "f3toggle.config.press_key": "Pressione uma tecla…",
+  "f3toggle.config.waiting": "Aguardando pressionamento de tecla…",
+  "f3toggle.toggled.creative": "Modo Criativo ativado (F3+%s para voltar)",
+  "f3toggle.toggled.restored": "Modo de jogo anterior restaurado",
+  "key.f3toggle.toggle": "Alternância do Modo Criativo",
+  "key.category.f3toggle.category": "Alternância do Modo Criativo"
+}
