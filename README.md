@@ -38,9 +38,10 @@ The mod uses only stable Fabric API and Vanilla APIs, with no version-specific h
 
 ## Languages
 
-| Version | English | Portuguese | Russian | Frensh | German |
-|------|-------------|------|------|-------------|------|
-| 1.0.0   |  ✅  | ✅ | ✅ | ✅ | ✅ |
+|  Version | English | Portuguese | Russian | Frensh | German | English Accent | Portuguese Accent | Russian Accent | Frensh  Accent| German Accent | 
+|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| 
+|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 
 # License
@@ -90,9 +91,10 @@ Die Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine version
 
 ## Sprachen
 
-| Version | Englisch | Deutsch | Portugiesich | Russisch | Französich |
-|------|-------------|------|------|-------------|------|
-| 1.0.0   |  ✅  | ✅ | ✅ | ✅ | ✅ |
+|  Version | Englisch | Portugiesich | Russisch | Französich | Deutsch | Englische Akzente | Portugiesiche Akzente | Russische Akzente | Französiche  Akzente | Deutsche Akzente | 
+|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| 
+|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 # Lizense
 
