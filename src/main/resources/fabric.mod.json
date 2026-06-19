@@ -9,7 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mods/creativetoggle",
-    "sources": "https://github.com/Mano-Craft/Creative-Toogle"
+    "sources": "https://github.com/Mano-Craft/Creative-Toogle",
+    "issues": "https://github.com/Mano-Craft/Creative-Toogle/issues"
   },
   "license": "Custom license by Mano Craft",
   "custom": {
