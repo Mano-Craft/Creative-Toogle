@@ -32,7 +32,12 @@ GLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.
 
 ## Compatibility
 
-| 1.21.0 + | ✅ |
+| Version |  Compatible |
+|-|-|
+| 1.20.6 | ❌️ |
+| 1.21 | ✅️ |
+| 26.1 | ✅️ |
+| 26.2 | ✅️ |
 
 The mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.
 
@@ -85,7 +90,12 @@ GLFW-Key-Codes: X = 88, Z = 90, C = 67, V = 86, usw.
 
 ## Kompatibilität
 
-| 1.21.0 + | ✅ |
+| Version | Kompatibel |
+|-|-|
+| 1.20.6 | ❌️ |
+| 1.21 | ✅️ |
+| 26.1 | ✅️ |
+| 26.2 | ✅️ |
 
 Die Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine versionsspezifischen Hacks.
 
