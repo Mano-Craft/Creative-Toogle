@@ -2,7 +2,7 @@
 
 # Creative Toggle – Fabric Mod
 
-**Minecraft 1.21.0 + | Fabric**
+**Minecraft 1.21.x | Fabric**
 
 ## What does the mod do?
 
@@ -36,8 +36,6 @@ GLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.
 |-|-|
 | 1.20.6 | ❌️ |
 | 1.21 | ✅️ |
-| 26.1 | ✅️ |
-| 26.2 | ✅️ |
 
 The mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.
 
@@ -63,7 +61,7 @@ See the LICENSE file for details.
 
 # Creative Toggle – Fabric Mod
 
-**Minecraft 1.21.0 + | Fabric**
+**Minecraft 1.21.x | Fabric**
 
 ## Was macht die Mod?
 
@@ -94,8 +92,6 @@ GLFW-Key-Codes: X = 88, Z = 90, C = 67, V = 86, usw.
 |-|-|
 | 1.20.6 | ❌️ |
 | 1.21 | ✅️ |
-| 26.1 | ✅️ |
-| 26.2 | ✅️ |
 
 Die Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine versionsspezifischen Hacks.
 
